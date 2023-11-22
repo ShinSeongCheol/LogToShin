@@ -1,0 +1,2 @@
+# LogToShin
+Seongcheol's Log
